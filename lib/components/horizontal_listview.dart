@@ -32,10 +32,7 @@ class HorizontalListView extends StatelessWidget {
             image_location:'images/cats/formal.png',
             image_caption: 'formal',
           ),
-          Category(
-            image_location:'images/cats/informal.png',
-            image_caption: 'informal',
-          )
+         
           
           //new Icon(Icons.help),
         ]
