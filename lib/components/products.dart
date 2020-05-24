@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:shopping_app/components/horizontal_listview.dart';
 import 'package:shopping_app/pages/product_detail.dart';
 //import 'package:shopping_app/pages/product_detail.dart';
 class Products extends StatefulWidget {
